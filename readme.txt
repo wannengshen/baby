@@ -7,5 +7,5 @@ git push -u origin master
 git add -A
 git clone http://....
 git branch
-git checkout -b dev
+git checkout -b dev(dasjask)
 
